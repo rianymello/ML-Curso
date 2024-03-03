@@ -1,0 +1,201 @@
+Idade,Gênero,Nível_Educação,Renda,Comprou_Curso
+36,Feminino,Pós-graduação,4812,Não
+33,Feminino,Ensino Médio,3731,Sim
+32,Feminino,Ensino Médio,1628,Sim
+30,Feminino,Graduação,2345,Sim
+30,Masculino,Graduação,2702,Sim
+41,Feminino,Pós-graduação,921,Não
+21,Masculino,Graduação,2340,Sim
+47,Masculino,Graduação,1305,Sim
+31,Feminino,Pós-graduação,1303,Sim
+22,Masculino,Pós-graduação,4251,Não
+33,Masculino,Graduação,3948,Sim
+48,Feminino,Pós-graduação,3635,Não
+45,Feminino,Pós-graduação,2968,Não
+39,Masculino,Pós-graduação,1769,Sim
+30,Masculino,Ensino Médio,4266,Não
+44,Masculino,Ensino Médio,1906,Sim
+30,Masculino,Graduação,4018,Não
+36,Feminino,Graduação,2089,Não
+22,Feminino,Pós-graduação,3513,Sim
+44,Feminino,Pós-graduação,1634,Não
+33,Masculino,Graduação,2766,Sim
+45,Feminino,Pós-graduação,1221,Sim
+47,Feminino,Graduação,906,Sim
+47,Masculino,Graduação,3926,Sim
+37,Feminino,Pós-graduação,3434,Sim
+24,Feminino,Graduação,4509,Não
+25,Masculino,Ensino Médio,1496,Sim
+49,Feminino,Pós-graduação,2657,Não
+35,Feminino,Graduação,1502,Não
+28,Feminino,Pós-graduação,3413,Não
+28,Feminino,Pós-graduação,931,Sim
+24,Masculino,Pós-graduação,2321,Sim
+37,Feminino,Graduação,829,Não
+39,Masculino,Ensino Médio,4700,Sim
+31,Masculino,Graduação,1889,Não
+39,Masculino,Pós-graduação,2462,Não
+49,Feminino,Ensino Médio,3493,Sim
+35,Masculino,Pós-graduação,4220,Não
+43,Feminino,Graduação,1378,Não
+49,Feminino,Pós-graduação,3539,Não
+18,Masculino,Graduação,3252,Não
+23,Feminino,Graduação,1159,Não
+21,Masculino,Ensino Médio,857,Não
+32,Feminino,Ensino Médio,1866,Não
+48,Feminino,Pós-graduação,4474,Não
+19,Feminino,Ensino Médio,3621,Não
+33,Feminino,Pós-graduação,2677,Sim
+33,Feminino,Pós-graduação,3511,Não
+45,Feminino,Graduação,4914,Não
+22,Masculino,Pós-graduação,936,Não
+48,Feminino,Ensino Médio,1878,Não
+47,Feminino,Graduação,2912,Não
+34,Feminino,Ensino Médio,2326,Não
+24,Feminino,Ensino Médio,4736,Não
+24,Feminino,Ensino Médio,4644,Sim
+38,Feminino,Pós-graduação,3669,Não
+40,Feminino,Graduação,2220,Não
+27,Feminino,Pós-graduação,1093,Sim
+44,Feminino,Graduação,1459,Não
+31,Masculino,Graduação,4998,Não
+40,Masculino,Pós-graduação,4517,Não
+49,Masculino,Pós-graduação,1238,Sim
+31,Masculino,Graduação,1960,Não
+39,Masculino,Ensino Médio,2789,Não
+24,Feminino,Ensino Médio,3713,Não
+18,Feminino,Graduação,2056,Sim
+31,Feminino,Graduação,2562,Não
+33,Masculino,Graduação,2183,Sim
+49,Masculino,Graduação,1478,Não
+19,Feminino,Pós-graduação,3372,Sim
+42,Feminino,Graduação,1621,Não
+41,Feminino,Pós-graduação,2348,Não
+24,Feminino,Pós-graduação,4354,Não
+30,Feminino,Ensino Médio,3321,Não
+34,Masculino,Ensino Médio,1570,Sim
+34,Feminino,Graduação,4926,Não
+38,Feminino,Ensino Médio,1960,Não
+45,Masculino,Ensino Médio,2500,Não
+35,Feminino,Pós-graduação,3472,Não
+36,Masculino,Ensino Médio,2584,Sim
+26,Feminino,Pós-graduação,1513,Não
+32,Masculino,Pós-graduação,3467,Não
+38,Feminino,Pós-graduação,2729,Sim
+32,Masculino,Pós-graduação,2385,Sim
+23,Feminino,Pós-graduação,4860,Não
+23,Feminino,Graduação,4374,Não
+24,Feminino,Ensino Médio,991,Não
+35,Feminino,Graduação,2943,Sim
+30,Feminino,Pós-graduação,3509,Não
+41,Masculino,Graduação,2103,Sim
+25,Feminino,Graduação,3404,Não
+29,Feminino,Ensino Médio,1333,Sim
+29,Masculino,Graduação,4920,Não
+40,Masculino,Pós-graduação,2093,Não
+34,Masculino,Ensino Médio,4242,Não
+42,Feminino,Ensino Médio,4853,Não
+36,Masculino,Graduação,2421,Não
+39,Feminino,Pós-graduação,2241,Não
+24,Masculino,Graduação,4149,Não
+43,Feminino,Ensino Médio,2573,Sim
+28,Masculino,Graduação,4463,Não
+30,Feminino,Ensino Médio,1459,Não
+18,Masculino,Graduação,1989,Sim
+43,Masculino,Graduação,953,Sim
+43,Feminino,Pós-graduação,922,Não
+25,Feminino,Ensino Médio,4823,Não
+41,Feminino,Pós-graduação,3255,Não
+48,Feminino,Ensino Médio,959,Sim
+37,Masculino,Pós-graduação,1006,Não
+25,Masculino,Pós-graduação,4623,Não
+24,Masculino,Ensino Médio,2832,Não
+32,Feminino,Pós-graduação,2921,Não
+31,Masculino,Graduação,881,Não
+28,Feminino,Ensino Médio,3045,Não
+24,Masculino,Ensino Médio,4510,Sim
+21,Masculino,Ensino Médio,2229,Não
+35,Feminino,Graduação,2524,Não
+22,Masculino,Pós-graduação,4037,Sim
+33,Feminino,Ensino Médio,3913,Não
+40,Feminino,Pós-graduação,4317,Não
+36,Masculino,Ensino Médio,2831,Não
+27,Masculino,Graduação,1395,Não
+40,Feminino,Ensino Médio,1024,Sim
+41,Feminino,Pós-graduação,2890,Não
+36,Feminino,Ensino Médio,3952,Não
+21,Feminino,Pós-graduação,2575,Não
+48,Feminino,Pós-graduação,2041,Não
+18,Masculino,Ensino Médio,1544,Sim
+29,Feminino,Pós-graduação,4321,Sim
+39,Masculino,Ensino Médio,876,Não
+48,Feminino,Ensino Médio,4077,Não
+48,Feminino,Graduação,4708,Não
+18,Masculino,Graduação,1536,Não
+49,Feminino,Ensino Médio,3095,Não
+23,Masculino,Ensino Médio,818,Não
+22,Feminino,Pós-graduação,4082,Sim
+45,Feminino,Pós-graduação,4452,Não
+27,Feminino,Graduação,2966,Não
+38,Feminino,Graduação,1321,Sim
+35,Masculino,Graduação,2342,Sim
+46,Feminino,Pós-graduação,2767,Não
+23,Feminino,Graduação,2318,Sim
+39,Masculino,Pós-graduação,4379,Não
+28,Feminino,Graduação,2687,Não
+25,Feminino,Graduação,3759,Não
+27,Masculino,Pós-graduação,4389,Não
+40,Masculino,Ensino Médio,3248,Sim
+31,Masculino,Ensino Médio,2679,Não
+31,Masculino,Graduação,2019,Não
+37,Feminino,Graduação,1566,Não
+22,Masculino,Graduação,2845,Sim
+49,Masculino,Ensino Médio,4647,Não
+20,Masculino,Pós-graduação,3655,Sim
+43,Feminino,Graduação,3485,Não
+48,Feminino,Ensino Médio,4492,Sim
+49,Masculino,Pós-graduação,1356,Sim
+24,Masculino,Pós-graduação,1100,Não
+34,Feminino,Ensino Médio,2383,Não
+25,Masculino,Ensino Médio,2507,Não
+22,Masculino,Graduação,1969,Sim
+28,Masculino,Graduação,3226,Sim
+28,Feminino,Graduação,2894,Não
+40,Masculino,Ensino Médio,2627,Não
+38,Feminino,Graduação,4006,Sim
+26,Feminino,Graduação,1805,Não
+40,Feminino,Ensino Médio,2101,Não
+23,Masculino,Ensino Médio,4252,Não
+25,Feminino,Pós-graduação,3981,Não
+40,Feminino,Ensino Médio,1142,Não
+47,Masculino,Pós-graduação,2130,Não
+42,Feminino,Graduação,4334,Não
+19,Masculino,Ensino Médio,1833,Sim
+18,Masculino,Pós-graduação,4751,Sim
+32,Feminino,Graduação,1782,Não
+22,Feminino,Graduação,3600,Sim
+31,Masculino,Graduação,874,Não
+36,Feminino,Pós-graduação,4500,Não
+45,Feminino,Ensino Médio,1730,Sim
+24,Feminino,Pós-graduação,1737,Não
+18,Feminino,Ensino Médio,3421,Não
+33,Masculino,Ensino Médio,3448,Sim
+30,Feminino,Graduação,2946,Sim
+33,Masculino,Pós-graduação,1332,Sim
+35,Masculino,Pós-graduação,3200,Não
+41,Feminino,Graduação,3639,Não
+43,Feminino,Ensino Médio,3941,Sim
+28,Masculino,Pós-graduação,4662,Não
+19,Masculino,Pós-graduação,2287,Sim
+23,Masculino,Graduação,4605,Não
+34,Masculino,Ensino Médio,1086,Não
+20,Feminino,Pós-graduação,1690,Sim
+27,Masculino,Pós-graduação,3910,Não
+33,Masculino,Graduação,4335,Sim
+36,Feminino,Graduação,2299,Não
+31,Feminino,Graduação,3173,Não
+27,Feminino,Graduação,3870,Não
+39,Feminino,Pós-graduação,1279,Não
+43,Feminino,Graduação,3075,Não
+24,Masculino,Graduação,1685,Não
+19,Masculino,Ensino Médio,4723,Sim
